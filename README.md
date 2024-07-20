@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-point-set topology.
+This repository is for practicing the GitHub Flow. My name is Giang.
